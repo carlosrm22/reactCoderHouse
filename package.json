@@ -5,5 +5,8 @@
     "install": "^0.13.0",
     "npm": "^9.6.5",
     "react-bootstrap": "^2.7.4"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.1"
   }
 }
