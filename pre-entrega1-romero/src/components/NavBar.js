@@ -23,7 +23,7 @@ function NavBar() {
 function CartWidget() {
     return (
         <div>
-            <i className="fa fa-shopping-cart" style={{ fontSize: '20px' }}></i>
+            <FontAwesomeIcon icon={faShoppingCart} style={{ fontSize: '20px' }} />
             <span style={{ backgroundColor: 'red', borderRadius: '50%', padding: '2px 5px', color: 'white' }}>2</span>
         </div>
     );
