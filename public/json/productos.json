@@ -1,0 +1,109 @@
+[
+    {
+        "id": 0,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Filosofía",
+        "precio": 120,
+        "detalle": "Curso de 9 semanas para Filosofía.",
+        "imagen": "../resources/images/filosofia.jpg"
+    },
+    {
+        "id": 1,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Pedagogía",
+        "precio": 120,
+        "detalle": "Curso de 9 semanas para Pedagogía.",
+        "imagen": "../resources/images/pedagogia.jpg"
+    },
+    {
+        "id": 2,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Psicomotricidad",
+        "precio": 120,
+        "detalle": "Curso de 9 semanas para Psicomotricidad.",
+        "imagen": "../resources/images/psicomotricidad.jpg"
+    },
+    {
+        "id": 3,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Educación Inclusiva",
+        "precio": 120,
+        "detalle": "Curso de 9 semanas para Educación Inclusiva.",
+        "imagen": "../resources/images/educacion"
+    },
+    {
+        "id": 4,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Neuroeduación",
+        "precio": 120,
+        "detalle": "Curso de 9 semanas para Neuroeducación.",
+        "imagen": "../resources/images/neuro.jpg"
+    },
+    {
+        "id": 5,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Matemáticas",
+        "precio": 180,
+        "detalle": "Curso de 14 semanas para Matemáticas.",
+        "imagen": "../resources/images/matematicas.jpg"
+    },
+    {
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Lenguaje",
+        "precio": 180,
+        "detalle": "Curso de 14 semanas para Lenguaje.",
+        "imagen": "../resources/images/lenguaje.jpg"
+    },
+    {
+        "id": 7,
+        "tipo": "Curso",
+        "categoria": "cursos",
+        "nombre": "Culturales",
+        "precio": 180,
+        "detalle": "Curso de 14 semanas para Culturales.",
+        "imagen": "../resources/images/culturales.jpg"
+    },
+    {
+        "id": 8,
+        "tipo": "Diplomado",
+        "categoria": "diplomados",
+        "nombre": "Tronco Común",
+        "precio": 500,
+        "detalle": "Diplomado que integra los primeros 5 cursos.",
+        "imagen": "../resources/imagenes/nocheverano.webp"
+    },
+    {
+        "id": 9,
+        "tipo": "Diplomado",
+        "categoria": "diplomados",
+        "nombre": "Matemáticas",
+        "precio": 500,
+        "detalle": "Diplomado que integra Tronco Común y Matemáticas.",
+        "imagen": "../resources/images/diplomados.jpg"
+    },
+    {
+        "id": 10,
+        "tipo": "Diplomado",
+        "categoria": "diplomados",
+        "nombre": "Lenguaje",
+        "precio": 500,
+        "detalle": "Diplomado que integra Tronco Común y Lenguaje.",
+        "imagen": "../resources/images/diplomados.jpg"
+    },
+    {
+        "id": 11,
+        "tipo": "Diplomado",
+        "categoria": "diplomados",
+        "nombre": "Culturales",
+        "precio": 500,
+        "detalle": "Diplomado que integra Tronco Común y Culturales.",
+        "imagen": "../resources/images/diplomados.jpg"
+    }
+]
