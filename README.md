@@ -1,2 +1,2 @@
-# PreEntrega1Romero
-Primera pre-entrega para el curso de React de CoderHouse
+# PreEntrega2omero
+Segunda pre-entrega para el curso de React de CoderHouse
